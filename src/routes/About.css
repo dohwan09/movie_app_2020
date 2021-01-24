@@ -13,7 +13,7 @@ font-weight: 300;
     font-size: 20px;
 }
 
-.about__container span: last-child {
+.about__container span:last-child {
     display: block;
     margin-top: 10px
 }
